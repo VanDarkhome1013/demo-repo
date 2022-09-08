@@ -4,4 +4,10 @@ for the future use!
 
 ## Subheadder
 
-I have watched the tutorial on the Youtube
+I have watched the tutorial on the Youtube, on time 25:59, and i have not idea the push doens't work for now. 
+
+Read the index.html in you browser.
+
+# New section
+Write something meaningless here. 
+asasasasasa
